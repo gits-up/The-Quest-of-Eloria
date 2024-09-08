@@ -3,7 +3,7 @@ A text-based RPG game written in C. Includes character creation, a story-based s
 # Storyline:
 You are a young adventurer in the land of Eloria, a kingdom threatened by a dark sorcerer. The king has summoned heroes from across the realm to embark on a quest to defeat this evil. Your journey will take you through enchanted forests, ancient ruins, and treacherous dungeons.
 # Main Features:
-Character creation (choose your name and class)
-Simple combat system (based on attack and health stats)
-Story progression with branching paths
+- Character creation (choose your name and class)
+- Simple combat system (based on attack and health stats)
+- Story progression with branching paths
 
