@@ -25,6 +25,8 @@ You are a young adventurer in the land of Eloria, a kingdom threatened by a dark
 `gcc rpg_game.c -o rpg_game`
 - Run the game:
   `./rpg_game`
+  # Note:
+  Currently there are two enemies: a goblin and the dark sorcerer(final boss), feel free to update more enemies!
 
   
 
