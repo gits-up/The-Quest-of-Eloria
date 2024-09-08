@@ -6,4 +6,18 @@ You are a young adventurer in the land of Eloria, a kingdom threatened by a dark
 - Character creation (choose your name and class)
 - Simple combat system (based on attack and health stats)
 - Story progression with branching paths
+# Key Features:
+- **Character Creation:** The player can choose a name and class, which affects health and attack values.
+- **Combat System:** The player fights enemies by reducing their health with attacks, and enemies attack back.
+- **Resting:** After defeating the goblin, the player rests and regains health before facing the final boss.
+- **Storyline:** The game progresses with narrative elements and battles, culminating in a final battle with the sorcerer.
+# To Compile and Run:
+- Save the code to a file (e.g., rpg_game.c)
+- Compile the program using a C compiler like GCC:
+`gcc rpg_game.c -o rpg_game`
+- Run the game:
+  `./rpg_game`
 
+  
+
+ 
