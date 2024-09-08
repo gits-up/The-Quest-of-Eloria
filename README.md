@@ -11,6 +11,14 @@ You are a young adventurer in the land of Eloria, a kingdom threatened by a dark
 - **Combat System:** The player fights enemies by reducing their health with attacks, and enemies attack back.
 - **Resting:** After defeating the goblin, the player rests and regains health before facing the final boss.
 - **Storyline:** The game progresses with narrative elements and battles, culminating in a final battle with the sorcerer.
+# Key Features of Turn-based Combat:
+- **Player's Turn Choices:** The player now chooses between attacking, defending, using a potion, or fleeing each turn:
+  - **Attack:** Standard attack dealing damage to the enemy.
+  - **Defend:** Temporarily boosts the player's defense to reduce damage from the next attack.
+  - **Use Potion:** Heals the player if they have potions remaining.
+  - **Flee:** The player can flee from battle and skip the encounter.
+- **Enemy Turn:** After the player acts, the enemy attacks back, and the player’s health is reduced based on the enemy’s attack power and the player’s defense.
+- **Interactive Decision-Making:** Each turn, the player must make decisions, making the combat system more engaging.
 # To Compile and Run:
 - Save the code to a file (e.g., rpg_game.c)
 - Compile the program using a C compiler like GCC:
